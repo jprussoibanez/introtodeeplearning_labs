@@ -7,3 +7,4 @@ lab2/*.pyc
 *.pyc
 *.h5
 lab2/logs/*
+.vscode/settings.json
